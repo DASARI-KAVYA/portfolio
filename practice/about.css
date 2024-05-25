@@ -1,0 +1,62 @@
+.image{
+    border-radius: 30%; 
+    /*width:25%;
+    height:50%; */
+    float: left;
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.content{
+    padding: 10% 0;
+    text-align: justify;
+    font-weight: bold;
+    margin-left: 43%;
+    margin-right: 5%;
+}
+h1{
+    text-align: center;
+    margin-top: 5%;
+
+}
+body{
+    background-color: rgba(17, 187, 202, 0.521);
+}
+.navbar{
+    position: fixed;
+    /* display: inline; */
+    top: 0;
+    right: 0;
+    line-height: 3.5;
+}
+.navbar button {
+    margin-right: 9px;
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+}
+.navbar button:hover{
+    color:antiquewhite;
+}
+
+.pages button {
+    margin-right: 9%;
+    /* margin-left: 25%; */
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+}
+.pages button:hover{
+    color:antiquewhite;
+}
+.pages{
+    margin-left: 50%;
+    margin-top: 0%;
+}
+/* .resume button{
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+    margin-left: 25%;
+}
+.linkedin button{
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+    margin-left: 35%;
+} */

@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    line-height: 2;
+    margin-top: 5%;
+}
+body{
+    background-color: rgba(17, 187, 202, 0.521);
+}
+.navbar{
+    position: fixed;
+    /* display: inline; */
+    top: 0;
+    right: 0;
+    line-height: 3.5;
+}
+.navbar button {
+    margin-right: 9px;
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+}
+.navbar button:hover{
+    color:antiquewhite;
+}

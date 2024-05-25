@@ -1,0 +1,31 @@
+h1,h4{
+    background-color: rgba(17, 187, 202, 0.521);
+    margin-top: 0%;
+    /* padding: 15px 0; */
+    line-height: 2;
+    margin: 0 auto;
+    text-align: center;
+    /* margin-top: 25; */
+}
+.image img{
+height: 55px;
+border-radius: 25px;
+}
+.image{
+    background-color: rgba(17, 187, 202, 0.521);
+}
+.navbar{
+    position: fixed;
+    /* display: inline; */
+    top: 0;
+    right: 0;
+    line-height: 3.5;
+}
+.navbar button {
+    margin-right: 9px;
+    background-color: rgba(17, 187, 202, 0.521);
+    border-radius: 25px;
+}
+.navbar button:hover{
+    color:antiquewhite;
+}
